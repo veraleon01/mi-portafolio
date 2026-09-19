@@ -6,7 +6,7 @@ Sitio web personal.
 
 
 
-\- \*\*Estudiante:\*\* Miguel Andres vera Leon
+\- \*\*Estudiante:\*\* Miguel vera Leon
 
-\- \*\*Profesor:\*\* Engelberth Ibañez Olaya
+\- \*\*Profesor:\*\* Engelberth Olaya
 
